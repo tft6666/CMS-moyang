@@ -1,4 +1,4 @@
-# vue-admin-template
+# CMS-----基于vue-admin-template
 
 English | [简体中文](./README-zh.md)
 
@@ -17,7 +17,7 @@ English | [简体中文](./README-zh.md)
 git clone https://github.com/PanJiaChen/vue-admin-template.git
 
 # enter the project directory
-cd vue-admin-template
+cd contractWeb
 
 # install dependency
 npm install
